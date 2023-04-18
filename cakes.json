@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cheescake de frutos rojos",
+    "price": 1500,
+    "id": 1,
+    "image": "assets/main/cheescake.jpg"
+  },
+  {
+    "name": "Brownie con dulce de leche",
+    "price": 1300,
+    "id": 2,
+    "image": "assets/main/brownie.jpg"
+  },
+  {
+    "name": "Tarta de frutillas",
+    "price": 1100,
+    "id": 3,
+    "image": "assets/main/frutillas.png"
+  },
+  {
+    "name": "Chocotorta",
+    "price": 1300,
+    "id": 4,
+    "image": "assets/main/chocotorta.jpg"
+  },
+  {
+    "name": "Lemon Pie",
+    "price": 1100,
+    "id": 5,
+    "image": "assets/main/lemon.jpg"
+  },
+  {
+    "name": "Tarta de coco y dulce de leche",
+    "price": 1200,
+    "id": 6,
+    "image": "assets/main/coco.jpeg"
+  },
+  {
+    "name": "Selva Negra",
+    "price": 1400,
+    "id": 7,
+    "image": "assets/main/selva.jpg"
+  },
+  {
+    "name": "Cheescake de dulce de leche",
+    "price": 1600,
+    "id": 8,
+    "image": "assets/main/cheescakeDdl.jpg"
+  },
+  {
+    "name": "Pavlova",
+    "price": 1400,
+    "id": 9,
+    "image": "assets/main/pavlova.jpg"
+  },
+  {
+    "name": "Torta Balcarce",
+    "price": 1300,
+    "id": 10,
+    "image": "assets/main/balcarce.jpg"
+  },
+  {
+    "name": "Tiramisu",
+    "price": 1600,
+    "id": 11,
+    "image": "assets/main/tiramisu.jpg"
+  },
+  {
+    "name": "Rogel",
+    "price": 1450,
+    "id": 12,
+    "image": "assets/main/rogel.jpg"
+  }
+]
